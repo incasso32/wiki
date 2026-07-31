@@ -15,9 +15,9 @@ Location and units for the **Weather page**.
 
 ```json
 {
-  "WeatherCity":      "Beijing, Beijing, China",
-  "WeatherLat":       "39.9075",
-  "WeatherLon":       "116.3972",
+  "WeatherCity":      "Spanbroek, Noord-H, Nederland",
+  "WeatherLat":       "52.69843",
+  "WeatherLon":       "4.959841",
   "WeatherTempUnit":  "celsius",
   "WeatherSpeedUnit": "kmh",
   "WeatherAltMode":   "pressure"
